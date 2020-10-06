@@ -1,0 +1,45 @@
+.navbar {
+  height: 50px;
+}
+
+.navbar a {
+  padding: 15px;
+  text-decoration: none;
+  float: left;
+  font-size: 20px;
+  color: black;
+}
+
+.first-image {
+  width: 100%;
+}
+
+.about-heading {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(54, 54, 170);
+}
+
+.center-img {
+  display: block;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.main-para {
+  text-align: left;
+  font-size: 20px;
+  width: 500px;
+  margin: auto;
+}
+
+.list {
+  text-align: center;
+  list-style-type: none;
+  line-height: 2.5;
+}
+
+li {
+  font-size: 19px;
+  color: rgb(54, 54, 170);
+}
